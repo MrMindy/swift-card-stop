@@ -37,6 +37,9 @@ class CardViewController: UIViewController {
     }
     
     @IBAction func rulesButtonTapped(_ sender: UIButton) {
+        
+        performSegue(withIdentifier: "toRules", sender: nil);
+        
     }
     
     func setButtonsRadius(buttons: [UIButton], radius: CGFloat = 8) {
