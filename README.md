@@ -11,8 +11,9 @@ An App that randomize some card until the user taps STOP button
 
 ## Images
 <p float="left">
-  <img src="app_main_screen.png" alt="exemplo imagem" style="width:300px">
-  <img src="app_color_detail_screen.png" alt="exemplo imagem" style="width:300px">
+  <img src="home_screen.png" alt="exemplo imagem" style="width:300px">
+  <img src="rules_detail_screen.png" alt="exemplo imagem" style="width:300px">
+  <img src="rapp_running.gif" alt="exemplo imagem" style="width:300px">
 </p>
 
 
